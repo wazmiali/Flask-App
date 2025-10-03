@@ -48,7 +48,7 @@ Flask-App/
 │
 ├── app.py          # Main application
 ├── templates/      # HTML templates
-├── static/         # CSS, JS, images
+├── static/         # CSS, JS, image
 └── requirements.txt
 ```
 
